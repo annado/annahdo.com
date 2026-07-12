@@ -1,5 +1,0 @@
-# Jekyll on GitHub Pages excludes dot/underscore-prefixed paths by default.
-# Whitelist .well-known so /.well-known/* files (e.g. the Tesla Fleet API
-# public key) are copied into the published site.
-include:
-  - ".well-known"
